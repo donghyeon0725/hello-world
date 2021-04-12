@@ -17,3 +17,5 @@ version 4를 개발하고 있습니다.
 master 에서 개발을 진행합니다.
 
 conflict를 위해 파일을 충돌 내려고 합니다.
+
+reset의 경우 강제 push가 필요합니다.
